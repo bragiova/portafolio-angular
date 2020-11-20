@@ -1,6 +1,7 @@
 # Portafolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+Es parte de un pequeño curso por lo que tiene texto o imágenes de prueba.
 
 ## Development server
 
